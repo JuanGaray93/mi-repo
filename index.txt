@@ -1,4 +1,2 @@
-Mi primer commit.
-
-Le estoy explicando a Coso cómo nos manejamos con Git.
+Estoy explicándole a Coso cómo nos solemos manejar con Git.
 Este contenido va a estar presente en mi segundo commit.
