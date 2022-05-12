@@ -1,2 +1,5 @@
+Mi primer commit.
+
 Estoy explicándole a Coso cómo nos solemos manejar con Git.
 Este contenido va a estar presente en mi segundo commit.
+Esto resuelve conflictos.
